@@ -1,0 +1,6 @@
+User searched for: all
+User searched for: all
+2016-09-07 18:39:22,050 1    [http-nio-8080-exec-5] INFO  com.matc.controller.SearchUser  - User searched for: first
+2016-09-07 18:43:16,336 1    [http-nio-8080-exec-4]  - User searched for: all
+2016-09-07 19:01:05,774 1    [http-nio-8080-exec-6]  - User searched for: all
+2016-09-07 19:04:04,489 0    com.matc.controller.SearchUser - User searched for: all
